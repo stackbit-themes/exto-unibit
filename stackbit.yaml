@@ -706,4 +706,4 @@ stackbit_banner:
   show_banner: true
   name: Exto
   create_url: 'https://app.stackbit.com/create?theme=exto'
-  github_url: 'https://github.com/stackbit-themes/exto-unibit'
+  github_url: 'https://github.com/stackbit/stackbit-theme-exto'
